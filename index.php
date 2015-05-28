@@ -24,6 +24,7 @@ $page = 'home';
 		<?php include 'includes/head.php';?>
         <script language="javascript">
 			$('.carousel').carousel()
+			$('body').scrollspy({ target: '#navbar-top' })
 		</script>
         <style>
 			div.carouselBackImg {
@@ -40,7 +41,7 @@ $page = 'home';
     		}
 		</style>
     </head>
-<body>
+<body data-spy="scroll" data-target="#navbar-top">
 	<?php include 'includes/navbar.php'; ?>
 	<div class="jumbotron jumboback inset-shadow-bar">
         <div class="container">
@@ -139,6 +140,7 @@ $page = 'home';
       	<div class="row">
       		<div class="col-md-12">
         		<a name="signup"></a>
+                <br />
         		<h2 class="subtitle">Sign Up</h2>
    				<iframe src="https://docs.google.com/forms/d/1kF62TpA_i9nAdXqcDnpNedU_rHJxUdDEJUoa7wMi94I/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
        		</div>
@@ -146,6 +148,7 @@ $page = 'home';
         <div class="row">
         	<div class="col-md-12">
         		<a name="winners"></a>
+                <br />
         		<h2 class="subtitle">Previous Winners</h2>
             </div>
        </div>
@@ -170,6 +173,7 @@ $page = 'home';
         <div class="row">
         	<div class="col-md-12">
             	<a name="2015"></a>
+                <br />
         		<h2 class="subtitle">2015 Infographic</h2>
             </div>
        </div>
