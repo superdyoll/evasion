@@ -58,11 +58,24 @@ $page = 'home';
      	<a name="about"></a>
       	<div class="row padded-row">
         	<div class="col-md-8">
-          		<h2>The Challenge</h2>
-          		<p>Forest Evasion is a yearly massive cat and mouse game that this year is taking place in the forest of dean. You can join  </p>
+          		<h3>What is this?</h3>
+          		<p>Forest Evasion is our annual competition with an aim of meeting and interacting with other like minded clubs. This page is designed to give an overview of what to expect from the competition, full rules will be sent to participants ahead of the competition.</p>
+                <h3>The Competition</h3>
+                <p>A 24 hour competition designed to appeal to outdoor societies. Teams are either <b>'Evaders'</b> or <b>'Catchers'</b>. The <b>Evaders</b> task is to navigate between a number of given checkpoints while the <b>Catchers</b> attempt to stop them. Each time a <b>Catching</b> team catches and <b>Evading</b> team they gain points and the Evaders lose a life. Ultimately the teams with the most lives and the most points after 24 hours are the winners.</p>
         	</div>
         	<div class="col-md-4">
           		<img src="images/EvasionGroup.jpg" class="img-responsive shadow-image"/>
+        	</div>
+      	</div>
+        <div class="row padded-row">
+        	<div class="col-md-4">
+          		<img src="images/EvasionGroup.jpg" class="img-responsive shadow-image"/>
+        	</div>
+            <div class="col-md-8">
+          		<h3>What is this?</h3>
+          		<p>Forest Evasion is our annual competition with an aim of meeting and interacting with other like minded clubs. This page is designed to give an overview of what to expect from the competition, full rules will be sent to participants ahead of the competition.</p>
+                <h3>The Competition</h3>
+                <p>A 24 hour competition designed to appeal to outdoor societies. Teams are either <b>'Evaders'</b> or <b>'Catchers'</b>. The <b>Evaders</b> task is to navigate between a number of given checkpoints while the <b>Catchers</b> attempt to stop them. Each time a <b>Catching</b> team catches and <b>Evading</b> team they gain points and the Evaders lose a life. Ultimately the teams with the most lives and the most points after 24 hours are the winners.</p>
         	</div>
       	</div>
       	<div class="row">
@@ -119,14 +132,14 @@ $page = 'home';
       	<div class="row">
       		<div class="col-md-12">
         		<a name="signup"></a>
-        		<h2>Sign Up</h2>
+        		<h2 class="subtitle">Sign Up</h2>
    				<iframe src="https://docs.google.com/forms/d/1kF62TpA_i9nAdXqcDnpNedU_rHJxUdDEJUoa7wMi94I/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
        		</div>
      	</div>
         <div class="row">
         	<div class="col-md-12">
         		<a name="winners"></a>
-        		<h2>Previous Winners</h2>
+        		<h2 class="subtitle">Previous Winners</h2>
             </div>
        </div>
        <div class="row">
@@ -145,6 +158,13 @@ $page = 'home';
 				<p>2014 Bath University Mountaineering Club (David Clare, Jon Ridley, Strachan McCormick, Martin MacDonald)</p>
 				<p>2015 Cambridge University Hillwalking Club (Philip Withnall, Vicky Ward, Joe Hobbs, Chris Arran, Tom Leach)</p>
 				<p>2016 ???</p>
+       		</div>
+     	</div>
+        <div class="row">
+      		<div class="col-md-12">
+        		<a name="2015"></a>
+        		<h2 class="subtitle">2015 Infographic</h2>
+   				<iframe align="centre" width="800" height="3063" frameborder="0" scrolling="no" style="overflow-y:hidden;" src="https://magic.piktochart.com/embed/5783006-forest-evasion-3-infographic"></iframe>
        		</div>
      	</div>
     </div>        

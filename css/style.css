@@ -46,3 +46,12 @@
 				border-top: 1px solid #BDBCBC;
 			}
 			
+			h2.subtitle{
+				background-color: rgb(249, 228, 163);
+  				text-align: center;
+  				padding-top: 5px;
+  				border-bottom: darkgreen;
+  				border-bottom-style: inset;
+				margin-top: 100px;
+			}
+			

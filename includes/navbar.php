@@ -20,7 +20,7 @@
         <li><a href="#about">About</a></li>
         <li><a href="#signup">Sign up now</a></li>
         <li><a href="#winners">Previous Winners</a></li>
-        <li><a href="2015">2015</a></li>
+        <li><a href="#2015">2015</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
