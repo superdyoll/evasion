@@ -56,7 +56,7 @@ $page = 'home';
      </div>
      <div class="container">
      	<a name="about"></a>
-      	<div class="row padded-row">
+      	<div class="row padded-row-top">
         	<div class="col-md-8">
           		<h3>What is this?</h3>
           		<p>Forest Evasion is our annual competition with an aim of meeting and interacting with other like minded clubs. This page is designed to give an overview of what to expect from the competition, full rules will be sent to participants ahead of the competition.</p>
@@ -67,19 +67,22 @@ $page = 'home';
           		<img src="images/EvasionGroup.jpg" class="img-responsive shadow-image"/>
         	</div>
       	</div>
-        <div class="row padded-row">
-        	<div class="col-md-4">
-          		<img src="images/EvasionGroup.jpg" class="img-responsive shadow-image"/>
+        <div class="row padded-row-bottom">
+        	<div class="col-md-4 hidden-xs hidden-sm">
+          		<img src="images/EvasionCompetitors.jpg" class="img-responsive shadow-image"/>
         	</div>
             <div class="col-md-8">
-          		<h3>What is this?</h3>
-          		<p>Forest Evasion is our annual competition with an aim of meeting and interacting with other like minded clubs. This page is designed to give an overview of what to expect from the competition, full rules will be sent to participants ahead of the competition.</p>
-                <h3>The Competition</h3>
-                <p>A 24 hour competition designed to appeal to outdoor societies. Teams are either <b>'Evaders'</b> or <b>'Catchers'</b>. The <b>Evaders</b> task is to navigate between a number of given checkpoints while the <b>Catchers</b> attempt to stop them. Each time a <b>Catching</b> team catches and <b>Evading</b> team they gain points and the Evaders lose a life. Ultimately the teams with the most lives and the most points after 24 hours are the winners.</p>
+          		<h3>When is it?</h3>
+          		<p>In 2016 the competition will take place on the weekend of 22nd-24th April.</p>
+                <h3>Where?</h3>
+                <p>This year we're really excited to be going to the Forest of Dean, a beautiful location which will present a great competition area. The 2015 competition was here too and it was the best so far!</p>
+                <h3>More details</h3>
+                Further info will be issued nearer the event, you can sign up below to ensure you recive information or check back here. Otherwise you can see the infographic for 2015 <a href="#2015">here</a> or you can <a href="#signup">sign up now >></a> 
         	</div>
       	</div>
       	<div class="row">
         	<div class="col-md-12">
+            	<h2 class="subtitle">What previous competitor's thought</h2>
           		<div id="carousel" class="carousel slide" data-ride="carousel" height="200px">
   					<!-- Indicators -->
   					<ol class="carousel-indicators">
@@ -94,25 +97,29 @@ $page = 'home';
     					<div class="item active">
       						<div class="carouselBackImg" style="background-image:url(images/sign.jpg)"></div>
       						<div class="carousel-caption">
-        						<h1>The challenge</h1>
+                            	<h3 class="quote">I had great fun trying to evade the catchers! Trying to plan routes that wouldn't take too long but not take the obvious path</h3>
+        						<p>Lloyd Pearson (Evader 2015)</p>
       						</div>
     					</div>
     					<div class="item">
       						<div class="carouselBackImg" style="background-image:url(images/tents.jpg)"></div>
       						<div class="carousel-caption">
-        						<h1>The challenge</h1>
+        						<h3 class="quote">I had great fun trying to evade the catchers! Trying to plan routes that wouldn't take too long but not take the obvious path</h3>
+        						<p>Lloyd Pearson (Evader 2015)</p>
                             </div>
     					</div>
                         <div class="item">
       						<div class="carouselBackImg" style="background-image:url(images/river.jpg)"></div>
       						<div class="carousel-caption">
-        						<h1>The challenge</h1>
+        						<h3 class="quote">I had great fun trying to evade the catchers! Trying to plan routes that wouldn't take too long but not take the obvious path</h3>
+        						<p>Lloyd Pearson (Evader 2015)</p>
       						</div>
     					</div>
                         <div class="item">
       						<div class="carouselBackImg" style="background-image:url(images/fire.jpg); background-position-y:25%;"></div>
       						<div class="carousel-caption">
-        						<h1>The challenge</h1>
+        						<h3 class="quote">I had great fun trying to evade the catchers! Trying to plan routes that wouldn't take too long but not take the obvious path</h3>
+        						<p>Lloyd Pearson (Evader 2015)</p>
       						</div>
     					</div>
   					</div>
@@ -161,9 +168,13 @@ $page = 'home';
        		</div>
      	</div>
         <div class="row">
-      		<div class="col-md-12">
-        		<a name="2015"></a>
+        	<div class="col-md-12">
+            	<a name="2015"></a>
         		<h2 class="subtitle">2015 Infographic</h2>
+            </div>
+       </div>
+       <div class="row">
+      		<div class="col-md-8 col-md-offset-2">
    				<iframe align="centre" width="800" height="3063" frameborder="0" scrolling="no" style="overflow-y:hidden;" src="https://magic.piktochart.com/embed/5783006-forest-evasion-3-infographic"></iframe>
        		</div>
      	</div>
