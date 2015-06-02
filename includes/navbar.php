@@ -1,4 +1,4 @@
-<nav id="navbar-top" class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
      <div class="navbar-header">
@@ -14,9 +14,9 @@
 	</div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="navbar-collapse navbar-ex1-collapse collapse" aria-expanded="false" style="height: 1px;">
+    <div id="navbar-top" class="navbar-collapse navbar-ex1-collapse collapse" aria-expanded="false" style="height: 1px;">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Home<span class="sr-only">(current)</span></a></li>
+        <li class="active"><a href="#home">Home<span class="sr-only">(current)</span></a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#signup">Sign up now</a></li>
         <li><a href="#winners">Previous Winners</a></li>

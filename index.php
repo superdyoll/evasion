@@ -24,7 +24,6 @@ $page = 'home';
 		<?php include 'includes/head.php';?>
         <script language="javascript">
 			$('.carousel').carousel()
-			$('body').scrollspy({ target: '#navbar-top' })
 		</script>
         <style>
 			div.carouselBackImg {
@@ -43,21 +42,20 @@ $page = 'home';
     </head>
 <body data-spy="scroll" data-target="#navbar-top">
 	<?php include 'includes/navbar.php'; ?>
-	<div class="jumbotron jumboback inset-shadow-bar">
+	<div id="home" class="jumbotron jumboback inset-shadow-bar">
         <div class="container">
       			<div class="row"> 
             		<div class="col-md-12">
                			<h1>Forest Evasion 2016</h1>
             			<br>
             			<br>
-            			<a class="btn btn-large btn-info" style="text-shadow: white 0em 0em 0em; padding-left:15px; padding-right:15px;">Sign up now!</a>
+            			<a href="#signup" class="btn btn-large btn-info" style="text-shadow: white 0em 0em 0em; padding-left:15px; padding-right:15px;">Sign up now!</a>
                 	</div>
             	</div>
         	</div>
      </div>
      <div class="container">
-     	<a name="about"></a>
-      	<div class="row padded-row-top">
+      	<div id="about" class="row padded-row-top">
         	<div class="col-md-8">
           		<h3>What is this?</h3>
           		<p>Forest Evasion is our annual competition with an aim of meeting and interacting with other like minded clubs. This page is designed to give an overview of what to expect from the competition, full rules will be sent to participants ahead of the competition.</p>
@@ -81,9 +79,63 @@ $page = 'home';
                 Further info will be issued nearer the event, you can sign up below to ensure you recive information or check back here. Otherwise you can see the infographic for 2015 <a href="#2015">here</a> or you can <a href="#signup">sign up now >></a> 
         	</div>
       	</div>
+        <div class="row" id="details">
+        	<div class="col-md-12">
+            	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  					<div class="panel panel-default">
+    					<div class="panel-heading" role="tab" id="headingRules">
+      						<h4 class="panel-title">
+        						<a data-toggle="collapse" data-parent="#accordion" href="#collapseRules" aria-expanded="true" aria-controls="collapseRules">
+          						Evasion Rules
+        						</a>
+      						</h4>
+    					</div>
+    					<div id="collapseRules" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingRules">
+      						<div class="panel-body">
+        						<ul>
+									<li>Teams of Evaders consist of 4-7 people</li>
+									<li>Evaders must navigate between given checkpoints. Catchers aim to 'catch' (tag) evading teams. Evaders lose 1 life if caught. Catchers gain points depending on how many lives a caught team has. The evading team that completes the course with least lives lost will win the evaders trophy. The catching team with most points will win the Catchers Trophy. After a team is caught they will have 15 minutes free time from any catching team and 30 mins from the same catching team.</li>
+									<li>Teams cannot be caught within 500m of a checkpoint whilst that checkpoint is open. If an evading team does not reach a checkpoint before it closes it must contact HQ1 phone with a 6 digit grid reference.</li>
+									<li>Anyone who is unable to show that they have any kit on the compulsory kit list may not be allowed to enter. All entrants must read the H&S briefing.</li>
+									<li>You are responsible for your own safety and that of your team.</li>
+									<li>All clothing, including shoes, should be suited to cover a long distance.</li>
+								</ul>
+      						</div>
+    					</div>
+  					</div>
+  					<div class="panel panel-default">
+    					<div class="panel-heading" role="tab" id="headingKit">
+      						<h4 class="panel-title">
+        						<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseKit" aria-expanded="false" aria-controls="collapseKit">
+          							Compulsory Kit List (not definitive)
+        						</a>
+      						</h4>
+    					</div>
+    					<div id="collapseKit" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingKit">
+      						<div class="panel-body">
+        						<ul>
+									<li>Backpack</li>
+									<li>Water bottle</li>
+									<li>Hiking boots</li>
+									<li>Base layers</li>
+									<li>Insulation</li>
+									<li>Outer shell (waterproof)</li>
+									<li>Socks</li>
+									<li>Spare socks</li>
+									<li>Hat, gloves, scarf, suncream etc.</li>
+									<li>Toilet paper</li>
+									<li>Food (you may buy additional food whilst competing, but we cannot guarantee where will be open, especially on sunday)</li>
+									<li>Torch</li>
+								</ul>
+      						</div>
+    					</div>
+  					</div>
+				</div>
+            </div>
+        </div>
       	<div class="row">
         	<div class="col-md-12">
-            	<h2 class="subtitle">What previous competitor's thought</h2>
+            	<h2 class="subtitle">What previous competitors thought</h2>
           		<div id="carousel" class="carousel slide" data-ride="carousel" height="200px">
   					<!-- Indicators -->
   					<ol class="carousel-indicators">
@@ -105,15 +157,15 @@ $page = 'home';
     					<div class="item">
       						<div class="carouselBackImg" style="background-image:url(images/tents.jpg)"></div>
       						<div class="carousel-caption">
-        						<h3 class="quote">I had great fun trying to evade the catchers! Trying to plan routes that wouldn't take too long but not take the obvious path</h3>
-        						<p>Lloyd Pearson (Evader 2015)</p>
+        						<h3 class="quote">I've done the competition for three years now and every year has been quite challenging but great fun!</h3>
+        						<p>Charlotte Callaway (Evader 2013-15)</p>
                             </div>
     					</div>
                         <div class="item">
       						<div class="carouselBackImg" style="background-image:url(images/river.jpg)"></div>
       						<div class="carousel-caption">
-        						<h3 class="quote">I had great fun trying to evade the catchers! Trying to plan routes that wouldn't take too long but not take the obvious path</h3>
-        						<p>Lloyd Pearson (Evader 2015)</p>
+        						<h3 class="quote">Evasion is a great opportunity to get off the beaten track in beautiful areas of the UK and is a great way of combining adventure with a bit of competitive spirit!</h3>
+        						<p>Rachel Manson (Evader 2013-15)</p>
       						</div>
     					</div>
                         <div class="item">
@@ -137,17 +189,16 @@ $page = 'home';
 				</div>
         	</div>
       	</div>
-      	<div class="row">
+        
+      	<div class="row" id="signup">
       		<div class="col-md-12">
-        		<a name="signup"></a>
                 <br />
         		<h2 class="subtitle">Sign Up</h2>
    				<iframe src="https://docs.google.com/forms/d/1kF62TpA_i9nAdXqcDnpNedU_rHJxUdDEJUoa7wMi94I/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
        		</div>
      	</div>
-        <div class="row">
+        <div class="row" id="winners">
         	<div class="col-md-12">
-        		<a name="winners"></a>
                 <br />
         		<h2 class="subtitle">Previous Winners</h2>
             </div>
@@ -155,31 +206,33 @@ $page = 'home';
        <div class="row">
         	<div class="col-md-4">
             	<img src="images/plaque2013.jpg" class="img-responsive shadow-image"/>
+                <br />
+                <br />
             </div>
       		<div class="col-md-8">
-   				<p>The competition first ran in 2012, the winners to date are as follows:</p>
+   				<p>The competition first ran in 2013, the winners to date are as follows:</p>
 				<h3>Catchers</h3>
                 <p>2013 - Southampton University Hillwalking Club Peter Forrest</p>
 				<p>2014 - Southampton University Hillwalking Club Joe Warmington</p>
 				<p>2015 - Southampton University Hillwalking Club (Tom Masheder, Tom Candy, Jake Rowland)</p>
 				<p>2016 - ???</p>
 				<h3>Evaders</h3>
-				<p>2013 Southampton's Duke of Edinburgh Society (Rachel Manson, Charlotte Callaway, Alex Manning, Georgia Howes)</p>
-				<p>2014 Bath University Mountaineering Club (David Clare, Jon Ridley, Strachan McCormick, Martin MacDonald)</p>
-				<p>2015 Cambridge University Hillwalking Club (Philip Withnall, Vicky Ward, Joe Hobbs, Chris Arran, Tom Leach)</p>
-				<p>2016 ???</p>
+				<p>2013 - Southampton's Duke of Edinburgh Society (Rachel Manson, Charlotte Callaway, Alex Manning, Georgia Howes)</p>
+				<p>2014 - Bath University Mountaineering Club (David Clare, Jon Ridley, Strachan McCormick, Martin MacDonald)</p>
+				<p>2015 - Cambridge University Hillwalking Club (Philip Withnall, Vicky Ward, Joe Hobbs, Chris Arran, Tom Leach)</p>
+				<p>2016 - ???</p>
        		</div>
      	</div>
-        <div class="row">
+        
+        <div class="row" id="2015">
         	<div class="col-md-12">
-            	<a name="2015"></a>
                 <br />
         		<h2 class="subtitle">2015 Infographic</h2>
             </div>
        </div>
        <div class="row">
-      		<div class="col-md-8 col-md-offset-2">
-   				<iframe align="centre" width="800" height="3063" frameborder="0" scrolling="no" style="overflow-y:hidden;" src="https://magic.piktochart.com/embed/5783006-forest-evasion-3-infographic"></iframe>
+      		<div class="col-md-10 col-md-offset-1">
+   				<iframe align="centre" width="100%" height="3800" frameborder="0" scrolling="no" style="overflow-y:hidden;" src="https://magic.piktochart.com/embed/5783006-forest-evasion-3-infographic"></iframe>
        		</div>
      	</div>
     </div>        
