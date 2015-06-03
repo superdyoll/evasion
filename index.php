@@ -34,7 +34,7 @@ $page = 'home';
       			height:250px;
       			min-width:150px;
       			min-height:200px;
-      			max-height:250px;
+      			max-height:600px;
       			overflow:hidden;
       			display:block;
     		}
@@ -79,17 +79,19 @@ $page = 'home';
                 Further info will be issued nearer the event, you can sign up below to ensure you recive information or check back here. Otherwise you can see the infographic for 2015 <a href="#2015">here</a> or you can <a href="#signup">sign up now >></a> 
         	</div>
       	</div>
-        <div class="row" id="details">
+        <!--<div class="row" id="details">
         	<div class="col-md-12">
+            	<h3>Rules and Kit List</h3>
             	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   					<div class="panel panel-default">
-    					<div class="panel-heading" role="tab" id="headingRules">
+    					<a data-toggle="collapse" data-parent="#accordion" href="#collapseRules" aria-expanded="false" aria-controls="collapseRules">
+                        <div class="panel-heading" role="tab" id="headingRules">
       						<h4 class="panel-title">
-        						<a data-toggle="collapse" data-parent="#accordion" href="#collapseRules" aria-expanded="true" aria-controls="collapseRules">
+        						
           						Evasion Rules
-        						</a>
+        						
       						</h4>
-    					</div>
+    					</div></a>
     					<div id="collapseRules" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingRules">
       						<div class="panel-body">
         						<ul>
@@ -104,13 +106,13 @@ $page = 'home';
     					</div>
   					</div>
   					<div class="panel panel-default">
-    					<div class="panel-heading" role="tab" id="headingKit">
+    					<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseKit" aria-expanded="false" aria-controls="collapseKit"><div class="panel-heading" role="tab" id="headingKit">
       						<h4 class="panel-title">
-        						<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseKit" aria-expanded="false" aria-controls="collapseKit">
+        						
           							Compulsory Kit List (not definitive)
-        						</a>
+        						
       						</h4>
-    					</div>
+    					</div></a>
     					<div id="collapseKit" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingKit">
       						<div class="panel-body">
         						<ul>
@@ -132,7 +134,7 @@ $page = 'home';
   					</div>
 				</div>
             </div>
-        </div>
+        </div>-->
       	<div class="row">
         	<div class="col-md-12">
             	<h2 class="subtitle">What previous competitors thought</h2>
