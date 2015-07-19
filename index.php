@@ -166,15 +166,15 @@ $page = 'home';
                         <div class="item">
       						<div class="carouselBackImg" style="background-image:url(images/river.jpg)"></div>
       						<div class="carousel-caption">
-        						<h3 class="quote">Evasion is a great opportunity to get off the beaten track in beautiful areas of the UK and is a great way of combining adventure with a bit of competitive spirit!</h3>
+        						<h4 class="quote">Evasion is a great opportunity to get off the beaten track in beautiful areas of the UK and is a great way of combining adventure with a bit of competitive spirit!</h4>
         						<p>Rachel Manson (Evader 2013-15)</p>
       						</div>
     					</div>
                         <div class="item">
       						<div class="carouselBackImg" style="background-image:url(images/fire.jpg); background-position-y:25%;"></div>
       						<div class="carousel-caption">
-        						<h3 class="quote">I had great fun trying to evade the catchers! Trying to plan routes that wouldn't take too long but not take the obvious path</h3>
-        						<p>Lloyd Pearson (Evader 2015)</p>
+        						<h4 class="quote">Being a catcher was fantastic; attempting to guess your opponents moves, putting a plan into action and lying in wait for the evaders to come into range made the weekend very enjoyable</h4>
+        						<p>Jake Rowland (Catcher 2015)</p>
       						</div>
     					</div>
   					</div>
