@@ -58,9 +58,9 @@ $page = 'home';
       	<div id="about" class="row padded-row-top">
         	<div class="col-md-8">
           		<h3>What is this?</h3>
-          		<p>Forest Evasion is our annual competition with an aim of meeting and interacting with other like minded clubs. This page is designed to give an overview of what to expect from the competition, full rules will be sent to participants ahead of the competition.</p>
+          		<p>Forest Evasion is our annual competition with the aim of meeting and interacting with other like-minded clubs. 2016 will be the 4th year the competition has run. This page is designed to give an overview of what to expect from Evasion, full rules will be sent to participants ahead of the competition.</p>
                 <h3>The Competition</h3>
-                <p>A 24 hour competition designed to appeal to outdoor societies. Teams are either <b>'Evaders'</b> or <b>'Catchers'</b>. The <b>Evaders</b> task is to navigate between a number of given checkpoints while the <b>Catchers</b> attempt to stop them. Each time a <b>Catching</b> team catches and <b>Evading</b> team they gain points and the Evaders lose a life. Ultimately the teams with the most lives and the most points after 24 hours are the winners.</p>
+                <p>Evasion is a 24 hour competition designed to appeal to outdoor societieswith teams of  <b>'Evaders'</b>(4-7 people) or <b>'Catchers'</b> (working individually or as a team). The Evaders' task is to navigate between a number of given checkpoints while the Catchers attempt to find them. Each time a catching team catches an evading team they gain points and the Evaders lose a life. Ultimately the teams with the most lives or the most points after 24 hours are the winners.</p>
         	</div>
         	<div class="col-md-4">
           		<img src="images/EvasionGroup.jpg" class="img-responsive shadow-image"/>
@@ -74,9 +74,9 @@ $page = 'home';
           		<h3>When is it?</h3>
           		<p>In 2016 the competition will take place on the weekend of 22nd-24th April.</p>
                 <h3>Where?</h3>
-                <p>This year we're really excited to be going to the Forest of Dean, a beautiful location which will present a great competition area. The 2015 competition was here too and it was the best so far!</p>
+                <p>This year we're really excited to be going back to the Forest of Dean, a beautiful location which presents a great competition area. The 2015 competition was here too and it was the best so far!</p>
                 <h3>More details</h3>
-                Further info will be issued nearer the event, you can sign up below to ensure you recive information or check back here. Otherwise you can see the infographic for 2015 <a href="#2015">here</a> or you can <a href="#signup">sign up now >></a> 
+                Further info will be issued nearer the event, you can sign up below to ensure you receive information or check back here. Otherwise you can see the infographic for 2015 <a href="#2015">here</a> or you can <a href="#signup">sign up now >></a> 
         	</div>
       	</div>
         <!--<div class="row" id="details">
