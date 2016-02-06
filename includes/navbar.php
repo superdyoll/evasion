@@ -21,6 +21,8 @@
         <li><a href="#signup">Sign up now</a></li>
         <li><a href="#winners">Previous Winners</a></li>
         <li><a href="#2015">2015</a></li>
+	<li><a href="https://www.facebook.com/ForestEvasion/"><i class="fa fa-facebook fa-lg"></i></a></li>
+	<li><a href="https://twitter.com/ForestEvasion"><i class="fa fa-twitter fa-lg"></i></a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
