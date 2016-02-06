@@ -194,23 +194,28 @@ $page = 'home';
       	</div>
         
       	<div class="row" id="signup">
-      		<div class="col-md-6">
-                <br />
+      		<div class="col-md-12">
+                	<br />
         		<h2 class="subtitle">Sign Up Form</h2>
-			<a href="files/Forest Evasion 2016 Team Sign Up Form.pdf" target="_blank">
-				<div class="well">
-					<i class="fa fa-file-pdf-o"></i>
-					Download the form in PDF format
-				</div>
-			</a>
-       		</div>
-		<div class="col-md-6">
-			<a href="http://view.officeapps.live.com/op/view.aspx?src=http://www.forestevasion.co.uk/files/Forest Evasion 2016 Team Sign Up Form.docx" target="_blank">
-				<div class="well">
-					<i class="fa fa-file-word-o"></i>
-					Download the form in Word format
-				</div>
-			</a>
+			<h3>Sign up is now live!!! Simply download and fill out the form below and send to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a></h3>
+			<div class="col-md-6">
+				<a href="files/Forest Evasion 2016 Team Sign Up Form.pdf" target="_blank">
+					<div class="well" style="font-size:large; text-align:center;">
+						<i class="fa fa-file-pdf-o fa-4x"></i>
+						<br />
+						Download the form in PDF format
+					</div>
+				</a>
+       			</div>
+			<div class="col-md-6">
+				<a href="http://view.officeapps.live.com/op/view.aspx?src=http://forestevasion.co.uk/files/Forest Evasion 2016 Team Sign Up Form.docx" target="_blank">
+					<div class="well" style="font-size:large; text-align:center;">
+						<i class="fa fa-file-word-o fa-4x"></i>
+						<br />
+						Download the form in Word format
+					</div>
+				</a>
+			</div>
 		</div>
      	</div>
         <div class="row" id="winners">
