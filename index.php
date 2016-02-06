@@ -39,6 +39,7 @@ $page = 'home';
       			display:block;
     		}
 		</style>
+	<link rel="stylesheet" href="css/font-awesome.min.css">
     </head>
 <body data-spy="scroll" data-target="#navbar-top">
 	<?php include 'includes/navbar.php'; ?>
@@ -193,11 +194,24 @@ $page = 'home';
       	</div>
         
       	<div class="row" id="signup">
-      		<div class="col-md-12">
+      		<div class="col-md-6">
                 <br />
-        		<h2 class="subtitle">Sign Up</h2>
-   				<iframe src="https://docs.google.com/forms/d/1kF62TpA_i9nAdXqcDnpNedU_rHJxUdDEJUoa7wMi94I/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        		<h2 class="subtitle">Sign Up Form</h2>
+			<a href="files/Forest Evasion 2016 Team Sign Up Form.pdf" target="_blank">
+				<div class="well">
+					<i class="fa fa-file-pdf-o"></i>
+					Download the form in PDF format
+				</div>
+			</a>
        		</div>
+		<div class="col-md-6">
+			<a href="http://view.officeapps.live.com/op/view.aspx?src=http://www.forestevasion.co.uk/files/Forest Evasion 2016 Team Sign Up Form.docx" target="_blank">
+				<div class="well">
+					<i class="fa fa-file-word-o"></i>
+					Download the form in Word format
+				</div>
+			</a>
+		</div>
      	</div>
         <div class="row" id="winners">
         	<div class="col-md-12">
