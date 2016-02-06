@@ -201,8 +201,7 @@ $page = 'home';
 			<div class="col-md-6">
 				<a href="files/Forest Evasion 2016 Team Sign Up Form.pdf" target="_blank">
 					<div class="well" style="font-size:large; text-align:center;">
-						<i class="fa fa-file-pdf-o fa-4x"></i>
-						<br />
+						<i class="fa fa-file-pdf-o fa-4x"></i><br />
 						Download the form in PDF format
 					</div>
 				</a>
@@ -210,8 +209,7 @@ $page = 'home';
 			<div class="col-md-6">
 				<a href="http://view.officeapps.live.com/op/view.aspx?src=http://forestevasion.co.uk/files/Forest Evasion 2016 Team Sign Up Form.docx" target="_blank">
 					<div class="well" style="font-size:large; text-align:center;">
-						<i class="fa fa-file-word-o fa-4x"></i>
-						<br />
+						<i class="fa fa-file-word-o fa-4x"></i><br />
 						Download the form in Word format
 					</div>
 				</a>
