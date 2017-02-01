@@ -20,7 +20,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Forest Evasion 2016</title>
+        <title>Forest Evasion 2017</title>
         <?php include 'includes/head.php';?>
         <script language="javascript">
             $('.carousel').carousel();
