@@ -319,7 +319,7 @@
             </div>
             <div class="row">
                 <div class="col-md-6 col-md-offset-3" style="text-align:center;">
-                    <i class="fa fa-copyright"></i> Forest Evasion 2016 <a href="forestevasion.co.uk">forestevasion.co.uk</a>
+                    <i class="fa fa-copyright"></i> Forest Evasion 2016 <a href="forestevasion.co.uk">forestevasion.co.uk</a> Forest Evasion is run by <a href="http://walking.susu.org">SUHC (Southampton University Hillwalking club)</a>
                 </div>
             </div>
         </div>        
