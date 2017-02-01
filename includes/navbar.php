@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="title navbar navbar-default navbar-fixed-top">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
      <div class="navbar-header">
@@ -20,7 +20,7 @@
         <li><a href="#about">About</a></li>
         <li><a href="#signup">Sign up now</a></li>
         <li><a href="#winners">Previous Winners</a></li>
-        <li><a href="#2015">2015</a></li>
+        <li><a href="#2016">2016</a></li>
 	<li><a href="https://www.facebook.com/ForestEvasion/"><i class="fa fa-facebook fa-lg"></i></a></li>
 	<li><a href="https://twitter.com/ForestEvasion"><i class="fa fa-twitter fa-lg"></i></a></li>
       </ul>

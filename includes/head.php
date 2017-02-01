@@ -17,3 +17,4 @@
 	ga('send', 'pageview');
 	
 </script>
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700" rel="stylesheet" type="text/css">
