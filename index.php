@@ -31,7 +31,7 @@
             background-size: cover;
             background-repeat: no-repeat;
             width:100%;
-            height:250px;
+            height:300px;
             min-width:150px;
             min-height:200px;
             max-height:600px;
@@ -80,7 +80,7 @@
                     <h3>How much does it cost?</h3>
                     <p>The cost for this years competition will be £12.50 per person which includes overnight camping at Two Mile Bottom Campsite, a badge and some minimal (but delicious) snacks along the route. It also covers hiring the forest. We have tried to reduce costs as much as we can and we do not aim to make any profit from the event.</p>
                     <h3>How do I sign up?</h3>
-                    Sign up for 2017 is now live!!! Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go.
+                    Sign up for 2017 is now closed. Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go. Sign up closes on April 9th.
                     <br />
                     <center>
                         <a href="#signup" class="btn btn-success btn-lg text-center">Sign up now!</a>
@@ -111,7 +111,7 @@
                             <div class="item">
                                 <div class="carouselBackImg" style="background-image:url(images/tents.jpg)"></div>
                                 <div class="carousel-caption">
-                                    <h3 class="quote">I've done the competition for three years now and every year has been quite challenging but great fun!</h3>
+                                    <h3 class="quote">I've done the competition for four years now and every year has been quite challenging but great fun!</h3>
                                     <p>Charlotte Callaway (Evader 2013-15, Catcher 2016)</p>
                                 </div>
                             </div>
@@ -148,16 +148,16 @@
                 <div class="col-md-12">
                     <br />
                     <h2 class="subtitle">Sign Up Form</h2>
-                    <h3 style="text-align:center">Sign up is now live!!! Simply fill it in online or download and fill out the form below and send to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a></h3>
-                    <div class="col-md-4">
+                    <h3 style="text-align:center">Sign up is now closed. If you need to fill out a health form download and fill out the form below and send to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a>.</h3>
+                    <!--<div class="col-md-4">
 		   	 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEENmwScHBNgGcTr0n2_7F5m3YROZ5AsbVLZ2sEVncRC9AIw/viewform" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-external-link fa-4x"></i><br />
                                 Fill in the form online
                             </div>
                         </a>
-		    </div>
-		    <div class="col-md-4">
+		    </div>-->
+		    <div class="col-md-6">
                         <a href="files/Forest Evasion 2017 Team Sign Up Form.pdf" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-file-pdf-o fa-4x"></i><br />
@@ -165,7 +165,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <a href="http://view.officeapps.live.com/op/view.aspx?src=http://forestevasion.co.uk/files/Forest Evasion 2017 Team Sign Up Form.docx" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-file-word-o fa-4x"></i><br />
@@ -193,8 +193,10 @@
                                         <li>Teams of Evaders consist of 4-7 people</li>
                                         <li>Competitiors must be between the ages of 18 - 35 and part of a registered organisation such as University, Scouts or Guides</li>
                                         <li>Evaders must navigate between given checkpoints. Catchers aim to 'catch' (tag) evading teams. Evaders lose 1 life if caught. Catchers gain points depending on how many lives a caught team has. The evading team that completes the course with least lives lost will win the evaders trophy. The catching team with most points will win the Catchers Trophy. After a team is caught they will have 15 minutes free time from any catching team and 30 mins from the same catching team.</li>
-                                        <li>Teams cannot be caught within 500m of a checkpoint whilst that checkpoint is open. If an evading team does not reach a checkpoint before it closes it must contact HQ1 phone with a 6 digit grid reference.</li>
-                                        <li>Anyone who is unable to show that they have any kit on the compulsory kit list may not be allowed to enter. All entrants must read the H&S briefing.</li>
+                                        <li>There will be a number of optional checkpoints along the route that allow you to gain extra lives. If attempting to get one of these checkpoints teams must remember to get to the next checkpoint at a given time. </li>
+					<li>Teams cannot be caught within 500m of a checkpoint whilst that checkpoint is open. If an evading team does not reach a checkpoint before it closes it must contact HQ1 phone with a 6 digit grid reference.</li>
+                                        <li>Team members must be within line of sight of one another and must be no further than 200m away from each other. </li>
+					<li>Anyone who is unable to show that they have any kit on the compulsory kit list may not be allowed to enter. All entrants must read the H&S briefing.</li>
                                         <li>You are responsible for your own safety and that of your team.</li>
                                         <li>All clothing, including shoes, should be suited to cover a long distance.</li>
                                     </ul>
@@ -224,6 +226,11 @@
                                         <li>Toilet paper</li>
                                         <li>Food (you may buy additional food whilst competing, but we cannot guarantee where will be open, especially on sunday)</li>
                                         <li>Torch</li>
+					<li>Map (O/S 229)</li>
+					<li>Compass</li>
+					<li>First Aid Kit</li>
+					<li>Tent (Will be left at the campsite)</li>
+					<li>Sleeping equipment</li>
                                     </ul>
                                 </div>
                             </div>
@@ -249,18 +256,18 @@
 					</tr>
 					<tr>
 					    <td>Saturday Morning</td>
-					    <td>Teams cook breakfast and prepare, teams release around 10 am </td>
+					    <td>Teams cook breakfast and prepare, teams release around 10 am. <b> If arriving on Saturday morning please ensure you arrive before 9:30 am so that you can be signed in. </b> </td>
 					</tr>
 					<tr>
 					    <td>Saturday Evening</td>
-					    <td>Teams finish day 1 and cook dinner. If you'd rather not cook then Thetford is only 10 mins drive and has a Wetherspoons (amongst other things). Another campfire. </td>
+					    <td>Teams finish day 1 and cook dinner. If you'd rather not cook then Thetford is only 10 mins drive and has a Wetherspoons (amongst other things). Another campfire. Teams will camp at the campsite not in the forest.</td>
 					</tr>
 					<tr>
 					    <td>Early Sunday Morning</td>
 					    <td>Teams leave site early hoping to evade capture and arrive at the first checkpoint before 9AM</td>
 					</tr>
 					<tr>
-					    <td>Early Sunday Afternoon</td>
+					    <td>Early Sunday Afternooni (Estimated finish at 3 pm)</td>
 					    <td>Competition ends, prizes awarded, people go home exausted but happy</td>
 					</tr>
 				    </table>
