@@ -1,6 +1,6 @@
 <?php
     /**
-        * Copyright (C) 2013 peredur.net
+        * Copyright (C) 2018 Forest Evasion
         *
         * This program is free software: you can redistribute it and/or modify
         * it under the terms of the GNU General Public License as published by
@@ -51,7 +51,7 @@
 			<h2>Forest of Dean</h2>
                         <h2>13th - 15th April</h2>
                         <br>
-                        <a href="#signup" class="btn btn-large btn-info" style="text-shadow: white 0em 0em 0em; padding-left:15px; padding-right:15px;">I'm Interested >></a>
+                        <a href="#signup" class="btn btn-large btn-info" style="text-shadow: white 0em 0em 0em; padding-left:15px; padding-right:15px;">Sign Up >></a>
                     </div>
                 </div>
             </div>
@@ -77,14 +77,14 @@
                     <p>In 2018 the competition will take place on the weekend of 13th - 15th April, with the actual competition taking place on the Saturday - Sunday</p>
                     <h3>Where?</h3>
                     <p>This year we're really excited to be returning to the Forest of Dean, a beautiful location which presents a great competition area. We've run the competition in the Forest Of Dean twice before and are excited to be returning</p>
-                   <?php /* <h3>How much does it cost?</h3>
-                    <p>The cost for this years competition will be £12.50 per person which includes overnight camping at Two Mile Bottom Campsite, a badge and some minimal (but delicious) snacks along the route. It also covers hiring the forest. We have tried to reduce costs as much as we can and we do not aim to make any profit from the event.</p> */ ?>
-                    <?php /*<h3>How do I sign up?</h3>
-                    <? /*Sign up for 2017 is now closed. Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go. Sign up closes on April 9th. */ ?> 
-			Express your interest by filling in the form below. We will email you when signup is open.
+                    <h3>How much does it cost?</h3>
+                    <p>The cost for this years competition will be £11 per person which includes overnight camping (On Friday and Saturday) at Botany Bay Campsite, a badge and (<b>New for this year!</b>) some delicious dinner on the saturday night. It also covers hiring the forest. We have tried to reduce costs as much as we can and we do not aim to make any profit from the event.</p>
+                    <h3>How do I sign up?</h3>
+                    Sign up for 2018 is now open. Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go. Sign up closes on March 31st.
+                    <br />
                     <br />
                     <center>
-                        <a href="#signup" class="btn btn-success btn-lg text-center">I'm Interested!</a>
+                        <a href="#signup" class="btn btn-success btn-lg text-center">Sign Up >></a>
                     </center> 
                 </div>
             </div>
@@ -148,12 +148,38 @@
             <div class="row" id="signup">
                 <div class="col-md-12">
                     <br />
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1FVhEOGTC6e6X51r3Th2h5NDmTDCfBnUV6rLK925gR9m2Gg/viewform?embedded=true" width="100%" height="1500px" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                    <h2 class="subtitle">Sign Up Form</h2>
+                    <h3 style="text-align:center">Sign up is now live!!! Simply fill it in online or download and fill out the form below and send to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a></h3>
+                    <div class="col-md-4">
+		   	 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEENmwScHBNgGcTr0n2_7F5m3YROZ5AsbVLZ2sEVncRC9AIw/viewform" target="_blank">
+                            <div class="well" style="font-size:large; text-align:center;">
+                                <i class="fa fa-external-link fa-4x"></i><br />
+                                Fill in the form online
+                            </div>
+                        </a>
+		    </div>
+		    <div class="col-md-4">
+                        <a href="files/Forest Evasion 2018 Team Sign Up Form.pdf" target="_blank">
+                            <div class="well" style="font-size:large; text-align:center;">
+                                <i class="fa fa-file-pdf-o fa-4x"></i><br />
+                                Download the form in PDF format
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="http://view.officeapps.live.com/op/view.aspx?src=http://forestevasion.co.uk/files/Forest Evasion 2018 Team Sign Up Form.docx" target="_blank">
+                            <div class="well" style="font-size:large; text-align:center;">
+                                <i class="fa fa-file-word-o fa-4x"></i><br />
+                                Download the form in Word format
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="row" id="details">
                 <div class="col-md-12">
-                    <h3>Rules and Kit List</h3>
+                    <br />
+                    <h2 class="subtitle">Rules and Kit List</h2>
                     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                         <div class="panel panel-default" style="background-color: #f5f5f5;">
                             <a data-toggle="collapse" data-parent="#accordion" href="#collapseRules" aria-expanded="false" aria-controls="collapseRules">
@@ -183,7 +209,7 @@
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseKit" aria-expanded="false" aria-controls="collapseKit">
                                 <div class="panel-heading" role="tab" id="headingKit">
                                     <h4 class="panel-title">
-                                        <i class="fa fa-check-square-o"></i>&nbsp;Compulsory Kit List (not definitive)
+                                        <i class="fa fa-check-square-o"></i>&nbsp;Recommended Kit List (not definitive)
                                     </h4>
                                 </div>
                             </a>
@@ -202,7 +228,7 @@
                                         <li>Toilet paper</li>
                                         <li>Food (you may buy additional food whilst competing, but we cannot guarantee where will be open, especially on sunday)</li>
                                         <li>Torch</li>
-					<li>Map (O/S 229)</li>
+					<li>Map (O/S OL14)</li>
 					<li>Compass</li>
 					<li>First Aid Kit</li>
 					<li>Tent (Will be left at the campsite)</li>
@@ -287,7 +313,24 @@
                     <p>2013 - Southampton's Duke of Edinburgh Society (Rachel Manson, Charlotte Callaway, Alex Manning, Georgia Howes)</p>
                 </div>
             </div>
-            
+            <div class="row" id="2017">
+                 <div class="col-md-12">
+                    <br />
+                    <h2 class="subtitle">2017 Photos</h2>
+                 </div>
+            </div> 
+            <div class="row">
+                 <div class="col-md-6">
+                    <img src="https://lh3.googleusercontent.com/5vI59iDU1CVp-7bIC89jnL5NGETC0WDeGPeWrLXSODZTtdRT_QQV2OZgF8qQPDzIiOb4WN7uBqWGnZWCvnleXZA2zNSt4cJK5jkS5_UC3n8dtkxu3b0re-Dmy_gc7HkAiNIDb2YB0m8=w2400" class="img-responsive shadow-image"/>
+                 </div>
+                 <div class="col-md-4 col-md-offset-1" style="text-align:center">
+		     <br />
+		     <br />
+		     <h2>We took loads of photos at Evasion 2017 take a look at them here to get an idea of what's in store.</h2>
+		     <br />
+		     <a class="btn btn-success" href="https://goo.gl/photos/ShQZXL6dAtABc1fJ8">The photo album >></a>
+                 </div>
+            </div>
             <div class="row" id="2016">
                 <div class="col-md-12">
                     <br />
@@ -303,7 +346,7 @@
             </div>
             <div class="row">
                 <div class="col-md-6 col-md-offset-3" style="text-align:center;">
-                    <i class="fa fa-copyright"></i> Forest Evasion 2016 <a href="forestevasion.co.uk">forestevasion.co.uk</a> Forest Evasion is run by <a href="http://walking.susu.org">SUHC (Southampton University Hillwalking club)</a>
+                    <i class="fa fa-copyright"></i> Forest Evasion <?=date('Y');?> <a href="forestevasion.co.uk">forestevasion.co.uk</a>
                 </div>
             </div>
         </div>        

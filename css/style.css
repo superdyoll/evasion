@@ -87,3 +87,9 @@ quote{
     font-style:italic;
     text-shadow: 2px 2px 0px #000;
 }
+
+.text-flex{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
