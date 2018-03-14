@@ -237,7 +237,7 @@
                                 </div>
                             </div>
                         </div>
-<!--			<div class="panel panel-default" style="background-color: #f5f5f5;">
+			<div class="panel panel-default" style="background-color: #f5f5f5;">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsePlan" aria-expanded="false" aria-controls="collapseKit">
                                 <div class="panel-heading" role="tab" id="headingKit">
                                     <h4 class="panel-title">
@@ -258,24 +258,24 @@
 					</tr>
 					<tr>
 					    <td>Saturday Morning</td>
-					    <td>Teams cook breakfast and prepare, teams release around 10 am. <b> If arriving on Saturday morning please ensure you arrive before 9:30 am so that you can be signed in. </b> </td>
+					    <td>Teams cook breakfast and prepare</td>
 					</tr>
 					<tr>
 					    <td>Saturday Evening</td>
-					    <td>Teams finish day 1 and cook dinner. If you'd rather not cook then Thetford is only 10 mins drive and has a Wetherspoons (amongst other things). Another campfire. Teams will camp at the campsite not in the forest.</td>
+					    <td>Teams finish day 1 and eat dinner. Another campfire. Teams will camp at the campsite not in the forest.</td>
 					</tr>
 					<tr>
 					    <td>Early Sunday Morning</td>
-					    <td>Teams leave site early hoping to evade capture and arrive at the first checkpoint before 9AM</td>
+					    <td>Teams leave site early hoping to evade capture and arrive at the first checkpoint</td>
 					</tr>
 					<tr>
-					    <td>Early Sunday Afternooni (Estimated finish at 3 pm)</td>
+					    <td>Early Sunday Afternoon</td>
 					    <td>Competition ends, prizes awarded, people go home exausted but happy</td>
 					</tr>
 				    </table>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
 
                     </div>
                 </div>
