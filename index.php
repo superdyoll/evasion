@@ -320,15 +320,15 @@
                  </div>
             </div> 
             <div class="row">
-                 <div class="col-md-6">
-                    <img src="https://lh3.googleusercontent.com/5vI59iDU1CVp-7bIC89jnL5NGETC0WDeGPeWrLXSODZTtdRT_QQV2OZgF8qQPDzIiOb4WN7uBqWGnZWCvnleXZA2zNSt4cJK5jkS5_UC3n8dtkxu3b0re-Dmy_gc7HkAiNIDb2YB0m8=w2400" class="img-responsive shadow-image"/>
-                 </div>
                  <div class="col-md-4 col-md-offset-1" style="text-align:center">
 		     <br />
 		     <br />
 		     <h2>We took loads of photos at Evasion 2017 take a look at them here to get an idea of what's in store.</h2>
 		     <br />
 		     <a class="btn btn-success" href="https://goo.gl/photos/ShQZXL6dAtABc1fJ8">The photo album >></a>
+                 </div>
+                 <div class="col-md-6 col-md-offset-1">
+                    <img src="https://lh3.googleusercontent.com/5vI59iDU1CVp-7bIC89jnL5NGETC0WDeGPeWrLXSODZTtdRT_QQV2OZgF8qQPDzIiOb4WN7uBqWGnZWCvnleXZA2zNSt4cJK5jkS5_UC3n8dtkxu3b0re-Dmy_gc7HkAiNIDb2YB0m8=w2400" class="img-responsive shadow-image"/>
                  </div>
             </div>
             <div class="row" id="2016">
