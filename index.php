@@ -48,7 +48,7 @@
                 <div class="row"> 
                     <div class="col-md-12">
                         <h1>Forest Evasion 2018</h1>
-            <h2>Forest of Dean</h2>
+                        <h2>Forest of Dean</h2>
                         <h2>13th - 15th April</h2>
                         <br>
                         <a href="#signup" class="btn btn-large btn-info" style="text-shadow: white 0em 0em 0em; padding-left:15px; padding-right:15px;">Sign Up >></a>
@@ -151,14 +151,14 @@
                     <h2 class="subtitle">Sign Up Form</h2>
                     <h3 style="text-align:center">Sign up is now live!!! Simply fill it in online or download and fill out the form below and send to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a></h3>
                     <div class="col-md-4">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEENmwScHBNgGcTr0n2_7F5m3YROZ5AsbVLZ2sEVncRC9AIw/viewform" target="_blank">
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEENmwScHBNgGcTr0n2_7F5m3YROZ5AsbVLZ2sEVncRC9AIw/viewform" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-external-link fa-4x"></i><br />
                                 Fill in the form online
                             </div>
                         </a>
-            </div>
-            <div class="col-md-4">
+                    </div>
+                    <div class="col-md-4">
                         <a href="files/Forest Evasion 2018 Team Sign Up Form.pdf" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-file-pdf-o fa-4x"></i><br />
@@ -196,9 +196,9 @@
                                         <li>Competitiors must be over 18 years old and part of a registered organisation such as University, Scouts or Guides</li>
                                         <li>Evaders will navigate between given checkpoints. Catchers aim to 'catch' (tag) evading teams. Evaders lose one life if caught. The evading team that completes the course with least lives lost will win the evaders trophy. After a team is caught they will have 15 minutes free time from any catching team and 30 mins from the same catching team.</li>
                                         <li>There may be optional checkpoints along the route that allow you to gain extra lives. If attempting to get one of these checkpoints, teams must remember to get to the next compulsory checkpoint before it closes. </li>
-                    <li>Teams cannot be caught within 500m of a manned checkpoint and 200m of an unmanned checkpoint whilst that checkpoint is open. If an evading team does not reach a manned checkpoint before it closes, they must phone the organiser with a 6 digit grid reference.</li>
+                                        <li>Teams cannot be caught within 500m of a manned checkpoint and 200m of an unmanned checkpoint whilst that checkpoint is open. If an evading team does not reach a manned checkpoint before it closes, they must phone the organiser with a 6 digit grid reference.</li>
                                         <li>Team members must be within line of sight of one another and must be no further than 200m away from each other. </li>
-                    <li>All entrants must read the H&S briefing.</li>
+                                        <li>All entrants must read the H&S briefing.</li>
                                         <li>You are responsible for your own safety and that of your team.</li>
                                         <li>All clothing, including shoes, should be suited to cover a long distance.</li>
                                     </ul>
@@ -243,7 +243,7 @@
                                 </div>
                             </div>
                         </div>
-            <div class="panel panel-default" style="background-color: #f5f5f5;">
+                        <div class="panel panel-default" style="background-color: #f5f5f5;">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapsePlan" aria-expanded="false" aria-controls="collapseKit">
                                 <div class="panel-heading" role="tab" id="headingKit">
                                     <h4 class="panel-title">
@@ -254,35 +254,34 @@
                             <div id="collapsePlan" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingKit">
                                 <div class="panel-body">
                                     <table class="table table-hover">
-                    <tr>
-                        <th>Time</th>
-                        <th>Activity</th>
-                    </tr>
-                    <tr>
-                        <td>Friday Evening (from 19:00)</td>
-                        <td>People Arrive / Set up tents</td>
-                    </tr>
-                    <tr>
-                        <td>Saturday Morning (12:00)</td>
-                        <td>Evasion starts from car park approx. 30mins from campsite.</td>
-                    </tr>
-                    <tr>
-                        <td>Saturday Evening (20:00)</td>
-                        <td>Dinner (provided) and campfire</td>
-                    </tr>
-                    <tr>
-                        <td>Early Sunday Morning</td>
-                        <td>Teams leave site early hoping to evade capture and arrive at the first checkpoint</td>
-                    </tr>
-                    <tr>
-                        <td>Sunday 12:00</td>
-                        <td>Competition ends, prizes awarded, people go home exausted but happy!</td>
-                    </tr>
-                    </table>
+                                        <tr>
+                                            <th>Time</th>
+                                            <th>Activity</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Friday Evening (from 19:00)</td>
+                                            <td>People Arrive / Set up tents</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Saturday Morning (12:00)</td>
+                                            <td>Evasion starts from car park approx. 30mins from campsite.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Saturday Evening (20:00)</td>
+                                            <td>Dinner (provided) and campfire</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Early Sunday Morning</td>
+                                            <td>Teams leave site early hoping to evade capture and arrive at the first checkpoint</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sunday 12:00</td>
+                                            <td>Competition ends, prizes awarded, people go home exausted but happy!</td>
+                                        </tr>
+                                    </table>
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -312,7 +311,7 @@
                 <div class="col-md-8">
                     <p>The competition first ran in 2013, the winners to date are as follows:</p>
                     <h3>Evaders</h3>
-            <p>2017 - CUHWC Duffers </p>
+                    <p>2017 - CUHWC Duffers </p>
                     <p>2016 - Southampton City Network (Tom Candy, Peter Ogilvie, Arshad Emmambux )</p>
                     <p>2015 - Cambridge University Hillwalking Club (Philip Withnall, Vicky Ward, Joe Hobbs, Chris Arran, Tom Leach)</p>
                     <p>2014 - Bath University Mountaineering Club (David Clare, Jon Ridley, Strachan McCormick, Martin MacDonald)</p>
@@ -348,13 +347,13 @@
                     <div class="embed-responsive embed-responsive-16by9">
                         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9NYaBlqgFtg" frameborder="0" allowfullscreen=""></iframe>
                     </div>
-        </div>
+                </div>
             </div>
             <div class="row">
                 <div class="col-md-6 col-md-offset-3" style="text-align:center;">
                     <i class="fa fa-copyright"></i> Forest Evasion <?=date('Y');?> <a href="forestevasion.co.uk">forestevasion.co.uk</a>
                 </div>
             </div>
-        </div>        
+        </div>
     </body>
 </html>
