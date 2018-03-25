@@ -62,7 +62,7 @@
                     <h3>What is Forest Evasion?</h3>
                     <p>Forest Evasion is our annual competition with the aim of meeting and interacting with other like-minded clubs. 2018 will be the 6th year the competition has run. This page is designed to give an overview of what to expect from Evasion, full rules will be sent to participants ahead of the competition.</p>
                     <h3>The Competition</h3>
-                    <p>Evasion is a 24 hour competition designed to appeal to outdoor societies, Scout Networks and SSAGO clubs with teams of <b>'Evaders'</b> (4-7 people) or <b>'Catchers'</b> (working in pairs or as a team). The Evaders' task is to navigate between a number of given checkpoints while the Catchers attempt to find them. Each time a catching team catches an evading team they gain points and the Evaders lose a life. Ultimately the teams with the most lives or the most points after 24 hours are the winners.</p>
+                    <p>Evasion is a 24 hour navigation competition designed to appeal to outdoor societies, Scout Networks and SSAGO clubs with teams of <b>'Evaders'</b> (4-7 people) or <b>'Catchers'</b> (working in pairs or as a team). The Evaders' task is to navigate between a number of given checkpoints while the Catchers attempt to find them. Each time a catching team catches an evading team they gain points and the Evaders lose a life. Ultimately, the teams with the most lives or the most points after 24 hours are the winners.</p>
                 </div>
                 <div class="col-md-4">
                     <img src="images/Group.jpg" class="img-responsive shadow-image"/>
@@ -78,9 +78,9 @@
                     <h3>Where?</h3>
                     <p>This year we're really excited to be returning to the Forest of Dean, a beautiful location which presents a great competition area. We've run the competition in the Forest Of Dean twice before and are excited to be returning</p>
                     <h3>How much does it cost?</h3>
-                    <p>The cost for this years competition will be £11 per person which includes overnight camping (On Friday and Saturday) at Botany Bay Campsite, a badge and (<b>New for this year!</b>) some delicious dinner on the saturday night. It also covers hiring the forest. We have tried to reduce costs as much as we can and we do not aim to make any profit from the event.</p>
+                    <p>The cost for this years competition will be £11 per person which includes overnight camping (on Friday and Saturday) at Botany Bay Campsite, a badge and (<b>new for this year!</b>) some delicious dinner on the saturday night. It also covers hiring the forest. We have tried to reduce costs as much as we can and we do not aim to make any profit from the event.</p>
                     <h3>How do I sign up?</h3>
-                    Sign up for 2018 is now open. Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go. Sign up closes on March 31st.
+                    Sign up for 2018 is now open. Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go. Sign up closes on Wednesday 4th April.
                     <br />
                     <br />
                     <center>
@@ -193,12 +193,12 @@
                                 <div class="panel-body">
                                     <ul>
                                         <li>Teams of Evaders consist of 4-7 people</li>
-                                        <li>Competitiors must be between the ages of 18 - 35 and part of a registered organisation such as University, Scouts or Guides</li>
-                                        <li>Evaders must navigate between given checkpoints. Catchers aim to 'catch' (tag) evading teams. Evaders lose 1 life if caught. Catchers gain points depending on how many lives a caught team has. The evading team that completes the course with least lives lost will win the evaders trophy. The catching team with most points will win the Catchers Trophy. After a team is caught they will have 15 minutes free time from any catching team and 30 mins from the same catching team.</li>
-                                        <li>There will be a number of optional checkpoints along the route that allow you to gain extra lives. If attempting to get one of these checkpoints teams must remember to get to the next checkpoint at a given time. </li>
-					<li>Teams cannot be caught within 500m of a checkpoint whilst that checkpoint is open. If an evading team does not reach a checkpoint before it closes it must contact HQ1 phone with a 6 digit grid reference.</li>
+                                        <li>Competitiors must be over 18 years old and part of a registered organisation such as University, Scouts or Guides</li>
+                                        <li>Evaders will navigate between given checkpoints. Catchers aim to 'catch' (tag) evading teams. Evaders lose one life if caught. The evading team that completes the course with least lives lost will win the evaders trophy. After a team is caught they will have 15 minutes free time from any catching team and 30 mins from the same catching team.</li>
+                                        <li>There may be optional checkpoints along the route that allow you to gain extra lives. If attempting to get one of these checkpoints, teams must remember to get to the next compulsory checkpoint before it closes. </li>
+					<li>Teams cannot be caught within 500m of a manned checkpoint and 200m of an unmanned checkpoint whilst that checkpoint is open. If an evading team does not reach a manned checkpoint before it closes, they must phone the organiser with a 6 digit grid reference.</li>
                                         <li>Team members must be within line of sight of one another and must be no further than 200m away from each other. </li>
-					<li>Anyone who is unable to show that they have any kit on the compulsory kit list may not be allowed to enter. All entrants must read the H&S briefing.</li>
+					<li>All entrants must read the H&S briefing.</li>
                                         <li>You are responsible for your own safety and that of your team.</li>
                                         <li>All clothing, including shoes, should be suited to cover a long distance.</li>
                                     </ul>
@@ -216,23 +216,29 @@
                             <div id="collapseKit" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingKit">
                                 <div class="panel-body">
                                     <ul>
-                                        <li>Backpack</li>
+                                        <li>*Map** (O/S OL14) - 1 per team</li>
+										<li>*First aid kit - 1 per team</li>
+										<li>*Waterproof coat and trousers</li>
+										<li>*Hiking boots</li>
+										<li>Gaiters</li>
+										<li>Backpack</li>
                                         <li>Water bottle</li>
-                                        <li>Hiking boots</li>
                                         <li>Base layers</li>
                                         <li>Insulation</li>
-                                        <li>Outer shell (waterproof)</li>
                                         <li>Socks</li>
                                         <li>Spare socks</li>
                                         <li>Hat, gloves, scarf, suncream etc.</li>
-                                        <li>Toilet paper</li>
-                                        <li>Food (you may buy additional food whilst competing, but we cannot guarantee where will be open, especially on sunday)</li>
-                                        <li>Torch</li>
-					<li>Map (O/S OL14)</li>
-					<li>Compass</li>
-					<li>First Aid Kit</li>
-					<li>Tent (Will be left at the campsite)</li>
-					<li>Sleeping equipment</li>
+                                        <li>Food (you may buy additional food whilst competing, but we cannot guarantee where will be open, especially on Sunday)</li>
+                                        <li>Plate and cutlery</li>
+										<li>Torch</li>
+										<li>Compass</li>
+										<li>Tent (Will be left at the campsite)</li>
+										<li>Sleeping equipment</li>
+										<li>Wash bag</li>
+										<li>Toilet paper</li>
+										
+										* We strongly advise you have at least these items to successfully take part.
+										** Thanks to Dash4It for providing us with ten OL14 Active maps; if your team requires one, please let us know!
                                     </ul>
                                 </div>
                             </div>
@@ -253,24 +259,24 @@
 					    <th>Activity</th>
 					</tr>
 					<tr>
-					    <td>Friday Evening</td>
-					    <td>People Arrive / Set up tents / Campfire</td>
+					    <td>Friday Evening (from 19:00)</td>
+					    <td>People Arrive / Set up tents</td>
 					</tr>
 					<tr>
-					    <td>Saturday Morning</td>
-					    <td>Teams cook breakfast and prepare</td>
+					    <td>Saturday Morning (12:00)</td>
+					    <td>Evasion starts from car park approx. 30mins from campsite.</td>
 					</tr>
 					<tr>
-					    <td>Saturday Evening</td>
-					    <td>Teams finish day 1 and eat dinner. Another campfire. Teams will camp at the campsite not in the forest.</td>
+					    <td>Saturday Evening (20:00)</td>
+					    <td>Dinner (provided) and campfire</td>
 					</tr>
 					<tr>
 					    <td>Early Sunday Morning</td>
 					    <td>Teams leave site early hoping to evade capture and arrive at the first checkpoint</td>
 					</tr>
 					<tr>
-					    <td>Early Sunday Afternoon</td>
-					    <td>Competition ends, prizes awarded, people go home exausted but happy</td>
+					    <td>Sunday 12:00</td>
+					    <td>Competition ends, prizes awarded, people go home exausted but happy!</td>
 					</tr>
 				    </table>
                                 </div>
