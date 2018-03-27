@@ -50,7 +50,7 @@
                         <h1>Forest Evasion 2018</h1>
                         <h2>Forest of Dean</h2>
                         <h2>13th - 15th April</h2>
-                        <br>
+                        <br />
                         <a href="#signup" class="btn btn-large btn-info" style="text-shadow: white 0em 0em 0em; padding-left:15px; padding-right:15px;">Sign Up >></a>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                     <h3>How much does it cost?</h3>
                     <p>The cost for this years competition will be £11 per person which includes overnight camping (On Friday and Saturday) at Botany Bay Campsite, a badge and (<b>New for this year!</b>) some delicious dinner on the saturday night. It also covers hiring the forest. We have tried to reduce costs as much as we can and we do not aim to make any profit from the event.</p>
                     <h3>How do I sign up?</h3>
-                    Sign up for 2018 is now open. Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go. Sign up closes on March 31st.
+            Sign up for 2018 is now open. Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go. Sign up closes on March 31st.
                     <br />
                     <br />
                     <center>
@@ -99,7 +99,7 @@
                             <li data-target="#carousel" data-slide-to="2"></li>
                             <li data-target="#carousel" data-slide-to="3"></li>
                         </ol>
-                        
+
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
@@ -131,7 +131,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <!-- Controls -->
                         <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
                             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -144,7 +144,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="row" id="signup">
                 <div class="col-md-12">
                     <br />
@@ -154,7 +154,7 @@
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEENmwScHBNgGcTr0n2_7F5m3YROZ5AsbVLZ2sEVncRC9AIw/viewform" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-external-link fa-4x"></i><br />
-                                Fill in the form online
+                        Fill in the form online
                             </div>
                         </a>
                     </div>
@@ -162,7 +162,7 @@
                         <a href="files/Forest Evasion 2018 Team Sign Up Form.pdf" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-file-pdf-o fa-4x"></i><br />
-                                Download the form in PDF format
+                        Download the form in PDF format
                             </div>
                         </a>
                     </div>
@@ -170,7 +170,7 @@
                         <a href="http://view.officeapps.live.com/op/view.aspx?src=http://forestevasion.co.uk/files/Forest Evasion 2018 Team Sign Up Form.docx" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-file-word-o fa-4x"></i><br />
-                                Download the form in Word format
+                        Download the form in Word format
                             </div>
                         </a>
                     </div>
@@ -236,9 +236,9 @@
                                         <li>Sleeping equipment</li>
                                         <li>Wash bag</li>
                                         <li>Toilet paper</li>
-                                        
-                                        * We strongly advise you have at least these items to successfully take part.
-                                        ** Thanks to Dash4It for providing us with ten OL14 Active maps; if your team requires one, please let us know!
+
+                                * We strongly advise you have at least these items to successfully take part.
+                                ** Thanks to Dash4It for providing us with ten OL14 Active maps; if your team requires one, please let us know!
                                     </ul>
                                 </div>
                             </div>
@@ -287,13 +287,13 @@
             </div>
             <div class="row" id="photos">
                 <div class="col-md-4">
-                    <img class="img-responsive shadow-image" src="images/UEA.jpg">
+                    <img class="img-responsive shadow-image" src="images/UEA.jpg" />
                 </div>
                 <div class="col-md-4">
-                    <img class="img-responsive shadow-image" src="images/Group_Wide.jpg">
+                    <img class="img-responsive shadow-image" src="images/Group_Wide.jpg" />
                 </div>
                 <div class="col-md-4">
-                    <img class="img-responsive shadow-image" src="images/SSAGO.jpg">
+                    <img class="img-responsive shadow-image" src="images/SSAGO.jpg" />
                 </div>
             </div>
             <div class="row" id="winners">
@@ -304,7 +304,7 @@
             </div>
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/plaque2013.jpg" class="img-responsive shadow-image"/>
+                    <img src="images/plaque2013.jpg" class="img-responsive shadow-image" />
                     <br />
                     <br />
                 </div>
@@ -319,22 +319,22 @@
                 </div>
             </div>
             <div class="row" id="2017">
-                 <div class="col-md-12">
+                <div class="col-md-12">
                     <br />
                     <h2 class="subtitle">2017 Photos</h2>
-                 </div>
+                </div>
             </div> 
             <div class="row">
-                 <div class="col-md-4 col-md-offset-1" style="text-align:center">
-             <br />
-             <br />
-             <h2>We took loads of photos at Evasion 2017 take a look at them here to get an idea of what's in store.</h2>
-             <br />
-             <a class="btn btn-success" href="https://goo.gl/photos/ShQZXL6dAtABc1fJ8">The photo album >></a>
-                 </div>
-                 <div class="col-md-6 col-md-offset-1">
+                <div class="col-md-4 col-md-offset-1" style="text-align:center">
+                    <br />
+                    <br />
+                    <h2>We took loads of photos at Evasion 2017 take a look at them here to get an idea of what's in store.</h2>
+                    <br />
+                    <a class="btn btn-success" href="https://goo.gl/photos/ShQZXL6dAtABc1fJ8">The photo album >></a>
+                </div>
+                <div class="col-md-6 col-md-offset-1">
                     <img src="https://lh3.googleusercontent.com/5vI59iDU1CVp-7bIC89jnL5NGETC0WDeGPeWrLXSODZTtdRT_QQV2OZgF8qQPDzIiOb4WN7uBqWGnZWCvnleXZA2zNSt4cJK5jkS5_UC3n8dtkxu3b0re-Dmy_gc7HkAiNIDb2YB0m8=w2400" class="img-responsive shadow-image"/>
-                 </div>
+                </div>
             </div>
             <div class="row" id="2016">
                 <div class="col-md-12">
@@ -357,3 +357,4 @@
         </div>
     </body>
 </html>
+    
