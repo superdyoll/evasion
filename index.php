@@ -47,9 +47,9 @@
             <div class="container">
                 <div class="row"> 
                     <div class="col-md-12">
-                        <h1>Forest Evasion 2018</h1>
-                        <h2>Forest of Dean</h2>
-                        <h2>13th - 15th April</h2>
+                        <h1>Forest Evasion 2019</h1>
+                        <h2>The New Forest</h2>
+                        <h2>3rd - 5th May</h2>
                         <br />
                         <a href="#signup" class="btn btn-large btn-info" style="text-shadow: white 0em 0em 0em; padding-left:15px; padding-right:15px;">Sign Up >></a>
                     </div>
@@ -60,9 +60,9 @@
             <div id="about" class="row padded-row-top">
                 <div class="col-md-8">
                     <h3>What is Forest Evasion?</h3>
-                    <p>Forest Evasion is our annual competition with the aim of meeting and interacting with other like-minded clubs. 2018 will be the 6th year the competition has run. This page is designed to give an overview of what to expect from Evasion, full rules will be sent to participants ahead of the competition.</p>
+                    <p>Forest Evasion is our annual competition with the aim of meeting and interacting with other like-minded clubs. 2019 will be the 7th year the competition has run. This page is designed to give an overview of what to expect from Evasion, full rules will be sent to participants ahead of the competition.</p>
                     <h3>The Competition</h3>
-                    <p>Evasion is a 24 hour competition designed to appeal to outdoor societies, Scout Networks and SSAGO clubs with teams of <b>'Evaders'</b> (4-7 people) or <b>'Catchers'</b> (working in pairs or as a team). The Evaders' task is to navigate between a number of given checkpoints while the Catchers attempt to find them. Each time a catching team catches an evading team they gain points and the Evaders lose a life. Ultimately the teams with the most lives or the most points after 24 hours are the winners.</p>
+                    <p>Evasion is a cat and mouse style competition designed to appeal to outdoor societies, Scout Networks and SSAGO clubs with teams of <b>'Evaders'</b> (4-7 people) or <b>'Catchers'</b> (working in pairs or as a team). The Evaders' task is to navigate between a number of given checkpoints while the Catchers attempt to find them. Each time a catching team catches an evading team they gain points and the Evaders lose a life. Ultimately the teams with the most lives or the most points after 24 hours are the winners.</p>
                 </div>
                 <div class="col-md-4">
                     <img src="images/Group.jpg" class="img-responsive shadow-image"/>
@@ -74,18 +74,18 @@
                 </div>
                 <div class="col-md-8">
                     <h3>When is it?</h3>
-                    <p>In 2018 the competition will take place on the weekend of 13th - 15th April, with the actual competition taking place on the Saturday - Sunday</p>
+                    <p>In 2019 the competition will take place on the weekend of 3rd - 5th May, with the actual competition taking place on the Saturday - Sunday</p>
                     <h3>Where?</h3>
-                    <p>This year we're really excited to be returning to the Forest of Dean, a beautiful location which presents a great competition area. We've run the competition in the Forest Of Dean twice before and are excited to be returning</p>
+                    <p>This year we're really excited to be returning to the New Forest, a beautiful location which presents a great competition area. The first 2 Forest Evasion's ever were hoseted in the New Forest so we're ready to see its return</p>
                     <h3>How much does it cost?</h3>
-                    <p>The cost for this years competition will be £11 per person which includes overnight camping (On Friday and Saturday) at Botany Bay Campsite, a badge and (<b>New for this year!</b>) some delicious dinner on the saturday night. It also covers hiring the forest. We have tried to reduce costs as much as we can and we do not aim to make any profit from the event.</p>
+                    <p>The cost for this years competition will be £11 per person which includes overnight camping (On Friday and Saturday) at Wilverly Campsite and a badge. It also covers hiring the forest. We have tried to reduce costs as much as we can and we do not aim to make any profit from the event.</p>
                     <h3>How do I sign up?</h3>
-            Sign up for 2018 is now open. Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go. Sign up closes on <strong>4th April 2018.</strong>
+            Sign up for 2019 is now open. Simply fill out the form online or download and email it back to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> and you'll be ready to go. Sign up closes on <strong>20th April 2019.</strong>
                     <br />
                     <br />
                     <center>
                         <a href="#signup" class="btn btn-success btn-lg text-center">Sign Up >></a>
-                    </center> 
+                    </center>
                 </div>
             </div>
             <div class="row">
@@ -150,15 +150,15 @@
                     <br />
                     <h2 class="subtitle">Sign Up Form</h2>
                     <h3 style="text-align:center">Sign up is now live!!! Simply fill it in online or download and fill out the form below and send to <a href="mailto:info@forestevasion.co.uk">info@forestevasion.co.uk</a> by the <strong>4th April 2018</strong></h3>
-                    <div class="col-md-4">
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEENmwScHBNgGcTr0n2_7F5m3YROZ5AsbVLZ2sEVncRC9AIw/viewform" target="_blank">
+                    <div class="col-md-4 col-md-offset-4">
+                        <a href="https://goo.gl/forms/O3HFVn5xxu606Pk33" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-external-link fa-4x"></i><br />
                         Fill in the form online
                             </div>
                         </a>
                     </div>
-                    <div class="col-md-4">
+<!--                    <div class="col-md-4">
                         <a href="files/Forest Evasion 2018 Team Sign Up Form.pdf" target="_blank">
                             <div class="well" style="font-size:large; text-align:center;">
                                 <i class="fa fa-file-pdf-o fa-4x"></i><br />
@@ -173,9 +173,10 @@
                         Download the form in Word format
                             </div>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
+
             <div class="row" id="details">
                 <div class="col-md-12">
                     <br />
@@ -198,7 +199,7 @@
                                         <li>There may be optional checkpoints along the route that allow you to gain extra lives. If attempting to get one of these checkpoints, teams must remember to get to the next compulsory checkpoint before it closes. </li>
                                         <li>Teams cannot be caught within 500m of a manned checkpoint and 200m of an unmanned checkpoint whilst that checkpoint is open. If an evading team does not reach a manned checkpoint before it closes, they must phone the organiser with a 6 digit grid reference.</li>
                                         <li>Team members must be within line of sight of one another and must be no further than 200m away from each other. </li>
-                                        <li>All entrants must read the H&S briefing.</li>
+                                        <li>All entrants must read the H&amp;S briefing.</li>
                                         <li>You are responsible for your own safety and that of your team.</li>
                                         <li>All clothing, including shoes, should be suited to cover a long distance.</li>
                                     </ul>
@@ -216,7 +217,7 @@
                             <div id="collapseKit" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingKit">
                                 <div class="panel-body">
                                     <ul>
-                                        <li>*Map** (O/S OL14) - 1 per team</li>
+                                        <li>*Map (O/S OL22) - 1 per team</li>
                                         <li>*First aid kit - 1 per team</li>
                                         <li>*Waterproof coat and trousers</li>
                                         <li>*Hiking boots</li>
@@ -238,7 +239,6 @@
                                         <li>Toilet paper</li>
 
                                 * We strongly advise you have at least these items to successfully take part.
-                                ** Thanks to Dash4It for providing us with ten OL14 Active maps; if your team requires one, please let us know!
                                     </ul>
                                 </div>
                             </div>
@@ -268,7 +268,7 @@
                                         </tr>
                                         <tr>
                                             <td>Saturday Evening (20:00)</td>
-                                            <td>Dinner (provided) and campfire</td>
+                                            <td>Dinner and campfire</td>
                                         </tr>
                                         <tr>
                                             <td>Early Sunday Morning</td>
@@ -311,6 +311,8 @@
                 <div class="col-md-8">
                     <p>The competition first ran in 2013, the winners to date are as follows:</p>
                     <h3>Evaders</h3>
+                    <p>2019 - <span style="font-weight:bold">Could it be you? </span></p>
+                    <p>2018 - Ramsoc</p>
                     <p>2017 - CUHWC Duffers </p>
                     <p>2016 - Southampton City Network (Tom Candy, Peter Ogilvie, Arshad Emmambux )</p>
                     <p>2015 - Cambridge University Hillwalking Club (Philip Withnall, Vicky Ward, Joe Hobbs, Chris Arran, Tom Leach)</p>
@@ -351,7 +353,7 @@
             </div>
             <div class="row">
                 <div class="col-md-6 col-md-offset-3" style="text-align:center;">
-                    <i class="fa fa-copyright"></i> Forest Evasion <?=date('Y');?> <a href="forestevasion.co.uk">forestevasion.co.uk</a>
+                    <i class="fa fa-copyright"></i> Forest Evasion 2016 - <?=date('Y');?> <a href="forestevasion.co.uk">forestevasion.co.uk</a>
                 </div>
             </div>
         </div>
